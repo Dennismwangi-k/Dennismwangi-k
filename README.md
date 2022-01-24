@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennismwangi-k
 - 👀 I’m interested in  programming
-- 🌱 I’m currently learning in web development
+- 🌱 I’m a software Engineer 
 - 💞️ I’m looking to collaborate on Robert ndungu from Andela Developer
 - 📫 How to reach me ....dennismwangik@hotmail.com or use my Whatsup number +254791835490
 
